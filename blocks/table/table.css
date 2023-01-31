@@ -4,4 +4,5 @@
     margin: 0 auto 0;
     flex-wrap: wrap;
     justify-content: space-around;
+    padding: 0;
   }
